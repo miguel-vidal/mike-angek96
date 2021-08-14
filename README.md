@@ -1,7 +1,7 @@
 - 👋 Hola, Soy Miguel Angel 
 - 👀 Estoy interesado en el Frontend y algunas tecnologias del Backend.
-    ReactJS| Redux | Context API | HTML | CSS | VanillaJS 
-    Laravel | MySQL | PHP | Java | Spring Boot
+    ReactJS| Redux  | Java | Spring Boot | Context API | HTML | CSS | VanillaJS 
+    Laravel | MySQL | PHP |
     
 
 ✨ Visita mi portafolio ✨
